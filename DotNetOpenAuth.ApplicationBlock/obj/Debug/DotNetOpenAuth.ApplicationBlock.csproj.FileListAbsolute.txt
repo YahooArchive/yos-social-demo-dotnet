@@ -1,0 +1,14 @@
+C:\10 Jimmi\20 Code\Net\DotNetOpenAuth-3.4.0.10015\DotNetOpenAuth-3.4.0.10015\Samples\DotNetOpenAuth.ApplicationBlock\bin\Debug\DotNetOpenAuth.ApplicationBlock.pdb
+C:\10 Jimmi\20 Code\Net\DotNetOpenAuth-3.4.0.10015\DotNetOpenAuth-3.4.0.10015\Samples\DotNetOpenAuth.ApplicationBlock\bin\Debug\DotNetOpenAuth.dll
+C:\10 Jimmi\20 Code\Net\DotNetOpenAuth-3.4.0.10015\DotNetOpenAuth-3.4.0.10015\Samples\DotNetOpenAuth.ApplicationBlock\bin\Debug\DotNetOpenAuth.pdb
+C:\10 Jimmi\20 Code\Net\DotNetOpenAuth-3.4.0.10015\DotNetOpenAuth-3.4.0.10015\Samples\DotNetOpenAuth.ApplicationBlock\bin\Debug\DotNetOpenAuth.xml
+C:\10 Jimmi\20 Code\Net\DotNetOpenAuth-3.4.0.10015\DotNetOpenAuth-3.4.0.10015\Samples\DotNetOpenAuth.ApplicationBlock\bin\Debug\sr\DotNetOpenAuth.resources.dll
+C:\10 Jimmi\20 Code\Net\DotNetOpenAuth-3.4.0.10015\DotNetOpenAuth-3.4.0.10015\Samples\DotNetOpenAuth.ApplicationBlock\obj\Debug\ResolveAssemblyReference.cache
+C:\10 Jimmi\20 Code\Net\DotNetOpenAuth-3.4.0.10015\DotNetOpenAuth-3.4.0.10015\Samples\DotNetOpenAuth.ApplicationBlock\obj\Debug\DotNetOpenAuth.ApplicationBlock.dll
+C:\10 Jimmi\20 Code\Net\DotNetOpenAuth-3.4.0.10015\DotNetOpenAuth-3.4.0.10015\Samples\DotNetOpenAuth.ApplicationBlock\obj\Debug\DotNetOpenAuth.ApplicationBlock.pdb
+C:\10 Jimmi\20 Code\Net\DotNetOpenAuth-3.4.0.10015\DotNetOpenAuth-3.4.0.10015\Samples\DotNetOpenAuth.ApplicationBlock\bin\Debug\DotNetOpenAuth.ApplicationBlock.dll
+C:\10 Jimmi\20 Code\Net\JimmiSample\DotNetOpenAuth.ApplicationBlock\bin\Debug\DotNetOpenAuth.ApplicationBlock.dll
+C:\10 Jimmi\20 Code\Net\JimmiSample\DotNetOpenAuth.ApplicationBlock\bin\Debug\DotNetOpenAuth.ApplicationBlock.pdb
+C:\10 Jimmi\20 Code\Net\JimmiSample\DotNetOpenAuth.ApplicationBlock\obj\Debug\ResolveAssemblyReference.cache
+C:\10 Jimmi\20 Code\Net\JimmiSample\DotNetOpenAuth.ApplicationBlock\obj\Debug\DotNetOpenAuth.ApplicationBlock.dll
+C:\10 Jimmi\20 Code\Net\JimmiSample\DotNetOpenAuth.ApplicationBlock\obj\Debug\DotNetOpenAuth.ApplicationBlock.pdb

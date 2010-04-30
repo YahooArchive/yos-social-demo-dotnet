@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 10
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OpenID", "OpenID", "{A4059F7E-8E6F-4FA2-A1D5-1B9B46C93F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIdRelyingPartyWebForms", "OpenIdRelyingPartyWebForms\OpenIdRelyingPartyWebForms.csproj", "{1E8AEA89-BF69-47A1-B290-E8B0FE588700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetOpenAuth.ApplicationBlock", "DotNetOpenAuth.ApplicationBlock\DotNetOpenAuth.ApplicationBlock.csproj", "{AA78D112-D889-414B-A7D4-467B34C7B663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CodeAnalysis|Any CPU = CodeAnalysis|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E8AEA89-BF69-47A1-B290-E8B0FE588700}.CodeAnalysis|Any CPU.ActiveCfg = CodeAnalysis|Any CPU
+		{1E8AEA89-BF69-47A1-B290-E8B0FE588700}.CodeAnalysis|Any CPU.Build.0 = CodeAnalysis|Any CPU
+		{1E8AEA89-BF69-47A1-B290-E8B0FE588700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8AEA89-BF69-47A1-B290-E8B0FE588700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8AEA89-BF69-47A1-B290-E8B0FE588700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8AEA89-BF69-47A1-B290-E8B0FE588700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA78D112-D889-414B-A7D4-467B34C7B663}.CodeAnalysis|Any CPU.ActiveCfg = CodeAnalysis|Any CPU
+		{AA78D112-D889-414B-A7D4-467B34C7B663}.CodeAnalysis|Any CPU.Build.0 = CodeAnalysis|Any CPU
+		{AA78D112-D889-414B-A7D4-467B34C7B663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA78D112-D889-414B-A7D4-467B34C7B663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA78D112-D889-414B-A7D4-467B34C7B663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA78D112-D889-414B-A7D4-467B34C7B663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1E8AEA89-BF69-47A1-B290-E8B0FE588700} = {A4059F7E-8E6F-4FA2-A1D5-1B9B46C93F82}
+		{AA78D112-D889-414B-A7D4-467B34C7B663} = {A4059F7E-8E6F-4FA2-A1D5-1B9B46C93F82}
+	EndGlobalSection
+EndGlobal
